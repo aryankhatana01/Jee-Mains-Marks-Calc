@@ -1,5 +1,5 @@
 # Jee-Mains-Marks-Calc
-
+[Doesn't work now since NTA changes their web view every year]
 ## Requirements:
 BeautifulSoup (bs4)
 Python3.10
